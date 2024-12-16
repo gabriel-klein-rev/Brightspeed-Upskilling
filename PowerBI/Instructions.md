@@ -1,0 +1,9 @@
+# PowerBI
+
+## Instructions
+
+Read the following and complete the tutorials as needed.
+
+- https://learn.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started
+- https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-automate-visual
+- https://learn.microsoft.com/en-us/power-query/connectors/google-bigquery
